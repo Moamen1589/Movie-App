@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom"; 
 import "../Styles/loading.css";
 
-export default function Loading() {
+export default function Loading(props) {
   const [isPageLoaded, setIsPageLoaded] = useState(true); 
   const location = useLocation(); 
 
@@ -15,7 +15,7 @@ export default function Loading() {
     }, 1000);
 
     return () => clearTimeout(timeout);
-  }, [location.pathname]); 
+  }, [location.pathname,props.id,props.num]); 
 
   if (!isPageLoaded) {
     return (
