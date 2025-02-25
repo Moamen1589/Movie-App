@@ -1,7 +1,7 @@
 
 # 🎬 Movie App
 
-![Movie App Preview](../assets/Screenshot 2025-02-25 025231.png)
+![Movie App Preview](src/assets/images/Screenshot 2025-02-25 025231.png)
 
 Welcome to the **Movie App**! This application, built with **React** and **Vite.js**, allows users to search for movies, add them to favorites, watch later, view trailers, and explore films by collections. It also includes advanced filtering options and detailed film information using **The Movie Database (TMDb) API**.
 
