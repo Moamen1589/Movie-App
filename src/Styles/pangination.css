@@ -1,0 +1,12 @@
+ul{
+    justify-content: center;
+    color: white !important;
+}
+
+.MuiPaginationItem-root{
+    color: white !important;
+}
+button{
+background-color: red !important;
+color: white !important;
+}

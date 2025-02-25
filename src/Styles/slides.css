@@ -1,0 +1,15 @@
+.swiper-slide:not(.land-slide) {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.poster:hover img {
+    display: block;
+}
+
+.swiper-pagination {
+    color: white;
+}

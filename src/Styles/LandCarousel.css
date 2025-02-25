@@ -1,0 +1,10 @@
+.land-swiper {
+    height: 670px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    background-color: rgba(0, 0, 0, 0.603);
+    color: red;
+    padding:  30px 20px;
+}
