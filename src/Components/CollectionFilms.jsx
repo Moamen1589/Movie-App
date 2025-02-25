@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom'
 import img from '../assets/images/play.png'
 import '../Styles/collectionFilms.css'
 import FilmsButtons from './FilmsButtons'
+import Loading from './Loading'
 export default function CollectionFilms(props) {
     const [data, setData] = useState()
     const [num, setNum] = useState(1)
@@ -69,6 +70,7 @@ export default function CollectionFilms(props) {
                             </div>
 
                         </div>
+                            <Loading id={props.id} num={num}/>
                     </>
 
                 ))
