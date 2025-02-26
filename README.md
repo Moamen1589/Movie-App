@@ -31,7 +31,8 @@ Welcome to the **Movie App**! This application, built with **React** and **Vite.
 
 ## 🔗 React Hooks Used
 
-- `useState` – Manage component state  
+- `useState` – Manage component state
+- `useEffect` – Perform side effects like fetching data  
 - `useContext` – Global state management for favorites and watch later  
 - `useRef` – Access DOM elements directly  
 - `useNavigate` – Programmatic navigation between pages  
