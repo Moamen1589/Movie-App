@@ -90,4 +90,3 @@ npm run dev
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) for the stylish and responsive design.
 - 🚦 [React Router](https://reactrouter.com/) for seamless navigation.
 
----
