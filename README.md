@@ -91,10 +91,3 @@ npm run dev
 - 🚦 [React Router](https://reactrouter.com/) for seamless navigation.
 
 ---
-
-## 🔗 Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: [YourUsername](https://github.com/your-username)
-- Email: your.email@example.com
